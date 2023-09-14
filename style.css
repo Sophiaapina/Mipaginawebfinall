@@ -1,0 +1,17 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.name{
+    text-align: center;
+}
+
+.titulos{
+    color:red;
+
+}
+
+.subtitulos{
+    color:aqua;
+}
